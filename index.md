@@ -3,3 +3,6 @@
 ```
 hello
 ```
+- [ ] say hi
+- [ ] be good
+- [ ] Introduce myself to the world
